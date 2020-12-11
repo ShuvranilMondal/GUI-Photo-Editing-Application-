@@ -6,7 +6,7 @@
 A simple and multifunctional photo editing desktop appliction
 
 # Description-
-This appliction supports Windows-10/windows-7/mac-os/linax. Make sure python-3 have installed in your system
+This appliction supports Windows-10/windows-7/mac-os/linux. Make sure python-3 have installed in your system
 
 # Features-
  -convert file to pdf/jpg/png,  Edit - Brightness/Contrast/Sharpness/Colour
@@ -16,7 +16,7 @@ This appliction supports Windows-10/windows-7/mac-os/linax. Make sure python-3 h
 ![{D1DE07C2-03C4-4FE5-9502-CAE273504B47} png](https://user-images.githubusercontent.com/70909882/101912374-a95f2080-3be7-11eb-9731-5a8802f69801.jpg)
  
 # Installation - 
- - install PIL package in your python terminal , pip install Pillow 
+ - install PIL package. type in your python terminal , pip install Pillow 
  - open the python file and run it (make sure you have installed python3,2)
  
 # Note-
