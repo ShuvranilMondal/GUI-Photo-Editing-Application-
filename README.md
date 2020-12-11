@@ -11,6 +11,10 @@ This appliction supports Windows-10/windows-7/mac-os/linax. Make sure python-3 h
 # Features-
  -convert file to pdf/jpg/png,  Edit - Brightness/Contrast/Sharpness/Colour
  
+![{BBCEF339-7C09-4360-A0E1-E4D40A945F7C} png](https://user-images.githubusercontent.com/70909882/101912348-a3693f80-3be7-11eb-9f8d-f2bbc925a93a.jpg)
+
+![{D1DE07C2-03C4-4FE5-9502-CAE273504B47} png](https://user-images.githubusercontent.com/70909882/101912374-a95f2080-3be7-11eb-9731-5a8802f69801.jpg)
+ 
 # Installation - 
  - install PIL package in your python terminal , pip install Pillow 
  - open the python file and run it (make sure you have installed python3,2)
